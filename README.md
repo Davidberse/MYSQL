@@ -1,2 +1,0 @@
-# MYSQL
-Trabajos Jimmy
